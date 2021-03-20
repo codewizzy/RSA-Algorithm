@@ -9,4 +9,6 @@ RSA algorithm is asymmetric cryptography algorithm. Asymmetric actually means th
 
 Since this is asymmetric, nobody else except browser can decrypt the data even if a third party has public key of browser.
 
+![RSA](https://user-images.githubusercontent.com/43826500/111880376-30831800-89d1-11eb-990c-44feabfecb58.png)
+
 Implemented RSA algorithm that can work on user defined block for encryption and decryption.
